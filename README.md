@@ -32,7 +32,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/michannna/deepseek-openrouter-cli
-cd deepseek-ai
+cd deepseek-openrouter-cli
 python3 ai.py
 ```
 
