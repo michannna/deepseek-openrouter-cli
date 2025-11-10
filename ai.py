@@ -43,7 +43,7 @@ class colors:
 # Configuration
 CONFIG_FILE = "deepseek_config.json"
 PROMPT_FILE = "system-prompt.txt"  # 🧩 Local system prompt file
-DEFAULT_API_KEY = "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"
+DEFAULT_API_KEY = "<your-api-key>"
 DEFAULT_BASE_URL = "https://openrouter.ai/api/v1"
 DEFAULT_MODEL = "tngtech/deepseek-r1t-chimera:free"
 SITE_URL = "https://github.com/00x0kafyy/worm-ai"
